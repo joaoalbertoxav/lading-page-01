@@ -1,0 +1,144 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.div1{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.pai{
+    background-image: url(img/wave\ \(1\).png);
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    margin-top: 0%;
+}
+
+h1{
+    color: white;
+    font-family: roboto;
+    text-align: center;
+}
+
+h3{
+    color: white;
+    font-family:normal;
+    text-align: center;
+}
+
+.div2{
+    display: flex;
+    justify-content: center;
+}
+
+input{
+    background-color: #d6d6d6;
+    border:none;
+    border-radius: 3px;
+    margin-left: 2vw;
+    width: 30%;
+    height: 6vh;
+}
+
+#bt{
+    background-color: black;
+    color: white;
+    border-radius: 3px;
+    border: none;
+    margin-left: 2vw;
+    width: 13%;
+    height: 6vh;
+}
+
+#p1{
+    font-family:url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700; 1.900&display=swap');
+    color: black;
+    display: flex;
+    justify-content: center;
+    padding-top: 2%;
+}
+
+.carrinho{
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+}
+
+.icons{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.container{
+    display: flex;
+}
+
+.container .content{
+    padding: 30px;
+}
+
+#img{
+    display: flex;
+    justify-content: start;
+}
+
+b{
+    display: flex;
+    justify-content: start;
+}
+
+p{
+    color: #78747A;
+}
+
+#p2{
+    font-family: url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+    display: flex;
+    justify-content: center;
+}
+
+.bt1{
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+}
+
+#bt1{
+    color: white;
+    border: none;
+    margin-left: 2vw;
+    width: 13%;
+    height: 6vh;
+    border-radius: 3%;
+    background-color: #007F1B;
+}
+
+.fundo{
+    background-color: #d6d6d6;
+    padding-bottom: 4%;
+}
+
+#id1{
+    text-align: center;
+    padding-top: 5%;
+    font-family: url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+}
+
+.final{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.a{
+    text-align: center;
+}
+
+a{
+    color: #007F1B;
+}
